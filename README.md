@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+Find my latest work and links to my [Instagram](https://www.instagram.com/arthur_gareginyan/), [LinkedIn](https://www.linkedin.com/in/arthurgareginyan), etc. on my website: [arthurgareginyan.com](https://arthurgareginyan.com).
+
 <!--
+
+If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/arthurgareginyan).
+
 **ArthurGareginyan/ArthurGareginyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
