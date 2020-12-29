@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find my latest work and links to my [Instagram](https://www.instagram.com/arthur_gareginyan/), [LinkedIn](https://www.linkedin.com/in/arthurgareginyan), etc. on my website: [arthurgareginyan.com](https://arthurgareginyan.com).
+Find my latest work and links to my [Instagram](https://www.instagram.com/arthur_gareginyan/), [LinkedIn](https://www.linkedin.com/in/arthurgareginyan), etc. on my website: [arthurgareginyan.com](https://arthurgareginyan.com). I write a lot (check out my tech blog [mycyberuniverse.com](https://mycyberuniverse.com/contributors/arthur-gareginyan.html)), and enjoy reading as much as writing.
 
 <!--
 
