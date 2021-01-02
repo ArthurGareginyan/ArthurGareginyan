@@ -6,7 +6,12 @@ If you like my work and want me to be able to keep improving it, please [sponsor
 
 Find my latest work and links to my [Instagram](https://www.instagram.com/arthur_gareginyan/), [LinkedIn](https://www.linkedin.com/in/arthurgareginyan), etc. on my website: [arthurgareginyan.com](https://arthurgareginyan.com).
 
+![Artur's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=arthurgareginyan&hide=css,html&theme=dracula&layout=compact)]
+
+
 <!--
+
+Dynamically generated stats card - https://github.com/anuraghazra/github-readme-stats
 
 **ArthurGareginyan/ArthurGareginyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
