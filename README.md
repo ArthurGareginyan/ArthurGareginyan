@@ -2,7 +2,7 @@
 
 I am a creative person who builds great software. I'm known mostly for my work on WordPress plugins with over 100,000 active installs. I write a lot (check out my tech blog [mycyberuniverse.com](https://mycyberuniverse.com/contributors/arthur-gareginyan.html)), and enjoy reading as much as writing.
 
-If you like my work and want me to be able to keep improving it, please [sponsor me via paypal.me](https://www.paypal.me/arthurd).
+If you like my work and want me to be able to keep improving it, please [sponsor me via buymeacoffee.com](https://bmc.link/ArthurG).
 
 Find my latest work and links to my [Instagram](https://www.instagram.com/arthur_gareginyan/), [LinkedIn](https://www.linkedin.com/in/arthurgareginyan), etc. on my website: [arthurgareginyan.com](https://arthurgareginyan.com).
 
